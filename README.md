@@ -10,7 +10,7 @@ This is my data analytics and machine learning portfolio. It comprises of projec
   
 ## Data Analysis and Visualization (SQL, Python, Power BI, Tableau)
 
-- <u>Suicide Death Rates by Age, Race and Sex </u>: Analyzed and visualized in Power BI. Found that people over the age of 85 and white males have consistently had the highest rate of suicide deaths between 1950 and 2018. Suicide death rates have also significantly gone up for the ages 15 to 54 over the last 20 years. Data from data.gov.
+- <ins>Suicide Death Rates by Age, Race and Sex </ins>: Analyzed and visualized in Power BI. Found that people over the age of 85 and white males have consistently had the highest rate of suicide deaths between 1950 and 2018. Suicide death rates have also significantly gone up for the ages 15 to 54 over the last 20 years. Data from data.gov.
 - Foundation Shades Annalysis: Analyzed and visualized in Power BI. Compared brands that offer lighter shades of foundations vs darker shades or if they offer an evenly distributed shades of foundation. Data from data.world.
 - [GDP Data Analysis](https://github.com/bhoomika-jp/GDP-Data-Analysis): Analyzed GDP for all the countries over 100 years and derived valuable insights and conclusions using data analysis and visualizations in Python (pandas, numpy, matplotlib, seaborn). Gapminder dataset. 
 - [Video Games Sales Analysis](https://github.com/bhoomika-jp/Video-Games-Sales-Analysis): Analyzed video games sales data and derived valuable insights and recommendations using data analysis and visualizations in Python (pandas, numpy, matplotlib, seaborn). Kaggle dataset. 

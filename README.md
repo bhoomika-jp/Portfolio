@@ -1,9 +1,12 @@
 # Portfolio
 This is my data analytics and machine learning portfolio. It comprises of projects completed for self-learning and professional purposes. All the projects are saved in separate repositories and can be accessed throught the links provided below. 
 
-## Data Analysis (SQL, Python)
+## Data Analysis 
 
-- World Life Expectancy Cleaning and Analaysis: Cleaned the data in MySQL and then used the cleaned data to carry out exploratory data analysis, finding insights into which countries have the highest life expectancies by GDP, Developed vs. Developing, BMI etc.
+### SQL
+- World Life Expectancy Cleaning and Analaysis: Cleaned the data in MySQL, handling missing values, calculating new columns etc. and then used the transformed data to carry out exploratory data analysis, finding insights into which countries have the highest life expectancies by GDP, Developed vs. Developing, BMI etc.
+
+### Python
 - [GDP Data Analysis](https://github.com/bhoomika-jp/GDP-Data-Analysis): Analyzed GDP for all the countries over 100 years and derived valuable insights and conclusions using data analysis and visualizations in Python (pandas, numpy, matplotlib, seaborn). Gapminder dataset. 
 - [Video Games Sales Analysis](https://github.com/bhoomika-jp/Video-Games-Sales-Analysis): Analyzed video games sales data and derived valuable insights and recommendations using data analysis and visualizations in Python (pandas, numpy, matplotlib, seaborn). Kaggle dataset. 
 - [Netflix Data Analysis](https://github.com/bhoomika-jp/MSBA-Coursework/blob/main/Netflix/Bhoomika_Final_Project.ipynb): My first ever data analysis in python using pandas, numpy and matplotlib. Completed for a beginner python class during MSBA. 

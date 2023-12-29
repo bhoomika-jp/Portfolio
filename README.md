@@ -1,5 +1,5 @@
 # Portfolio
-This is my data analytics and machine learning portfolio. It comprises of projects completed for self-learning and professional purposes. All the projects are saved in separate repositories and can be accessed throught the links provided below. 
+This is my data analytics and machine learning portfolio. It comprises of projects completed for self-learning and professional purposes. All the projects are saved in separate repositories and can be accessed through the links provided below. 
 
 ## Data Analysis 
 

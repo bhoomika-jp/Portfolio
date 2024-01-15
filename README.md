@@ -1,7 +1,7 @@
 # Portfolio
 This is my data analytics and machine learning portfolio. It comprises of projects completed for self-learning and professional purposes. All the projects are saved in separate repositories and can be accessed through the links provided below. 
 
-## Data Engineering/ Analysis 
+## Data Engineering / Analysis 
 
 ### SQL
 - [World Life Expectancy (Data Cleaning and Analaysis)](https://github.com/bhoomika-jp/World-Life-Expectancy): Cleaned the data in MySQL, handling missing values, calculating new columns etc. and then used the transformed data to carry out exploratory data analysis, finding insights into which countries have the highest and lowest life expectancies by GDP, Developed vs. Developing, BMI etc.
